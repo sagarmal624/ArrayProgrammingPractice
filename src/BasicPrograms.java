@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class BasicPrograms {
     public static void main(String arg[]) {
         int a[] = {1, 2, 2, 3, 5, 4, 5, 3, 4};
         System.out.println(findSingle(a));
